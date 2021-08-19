@@ -1,10 +1,14 @@
 ### Hi there 👋
-
+- 😄 I'm a final year CSE Student at at RV College of Engineering.
+- 🔭 I'm deeply interested in Web Development , AIML and Quantum Computing.
+- 📫 You can reach me at:
+  - Email: yatinsatija2@gmail.com
+  - LinkedIn: [@yatin-satija](https://www.linkedin.com/in/yatin-satija)
 <!--
 **yatinsatija/yatinsatija** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
