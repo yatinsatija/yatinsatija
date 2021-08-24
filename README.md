@@ -4,6 +4,7 @@
 - 📫 You can reach me at:
   - Email: yatinsatija2@gmail.com
   - LinkedIn: [@yatin-satija](https://www.linkedin.com/in/yatin-satija)
+  - Website: Checkout my website from [here](https://yatinsatija.netlify.app/).
 <!--
 **yatinsatija/yatinsatija** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
