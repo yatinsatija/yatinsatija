@@ -1,8 +1,9 @@
 ### Hi there 👋
-- 😄 I'm a final year CSE Student at at RV College of Engineering.
-- 🔭 I'm deeply interested in Web Development , AIML and Quantum Computing.
+- 😄 I'm a graduate student at Cornell University, majoring in Engineering Management.
+- 🔭 I'm deeply interested in Product Management, Data Analytics, and Investment Analytics.
+- 😄 I've done my bachelor's in Computer Science and Engineering from R.V. College of Engineering, Bangalore.
 - 📫 You can reach me at:
-  - Email: yatinsatija2@gmail.com
+  - Email: yatinsatija2@gmail.com 
   - LinkedIn: [@yatin-satija](https://www.linkedin.com/in/yatin-satija)
   - Website: Checkout my website from [here](https://yatinsatija.netlify.app/).
 <!--
