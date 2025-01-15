@@ -1,11 +1,11 @@
 ### Hi there 👋
 - 😄 I'm a graduate student at Cornell University, majoring in Engineering Management.
-- 🔭 I'm deeply interested in Product Management, Data Analytics, and Investment Analytics.
+- 🔭 I'm deeply interested in Product Management, Data Analytics, Technical Consulting, and Software Engineering.
 - 😄 I've done my bachelor's in Computer Science and Engineering from R.V. College of Engineering, Bangalore.
 - 📫 You can reach me at:
-  - Email: yatinsatija2@gmail.com 
+  - Email: ys2347@cornell.edu 
   - LinkedIn: [@yatin-satija](https://www.linkedin.com/in/yatin-satija)
-  - Website: Checkout my website from [here](https://yatinsatija.netlify.app/).
+  - Website: Checkout my website from [here](https://itsyatinsatija.netlify.app/).
 <!--
 **yatinsatija/yatinsatija** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
